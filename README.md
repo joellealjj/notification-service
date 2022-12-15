@@ -9,7 +9,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Notification Service using [NestJS](https://github.com/nestjs/nest) and [Prisma](https://www.prisma.io/docs).
 
 ## Installation
 
